@@ -31,5 +31,5 @@ The analysis is performed through organized code blocks that handle:
 
 As a student of both **Nursing** and **Computer Programming**, I developed this project to demonstrate how software can solve real-world administrative challenges in hospitals. This tool serves as a foundation for more advanced, AI-driven hospital management systems.
 
-## Disclaimer
-​This project is for educational and portfolio purposes only. It is not intended for use in clinical environments or for real patient data processing. The developer is not responsible for any decisions made based on the outputs of this software.
+## Note
+This project is an administrative tool designed for scheduling optimization. While it helps in organizing shifts, final schedules should always be reviewed and approved by authorized department heads to ensure compliance with local labor laws and hospital policies.
