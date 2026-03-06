@@ -1,0 +1,41 @@
+nurse_id,name,education_level,department,weekly_hours,experience_years,last_shift_date
+N1001,Alice Johnson,Master's Degree,ICU,42,8,2026-02-14
+N1002,Maria Lopez,Bachelor's Degree,Emergency,37,3,2026-02-20
+N1003,James Smith,Master's Degree,Cardiology,32,12,2026-02-15
+N1004,Fatma Yilmaz,Bachelor's Degree,Pediatrics,41,5,2026-02-14
+N1005,Daniel Brown,Bachelor's Degree,Operating Room,43,2,2026-02-09
+N1006,Elif Demir,Bachelor's Degree,Internal Medicine,46,4,2026-02-04
+N1007,Ahmet Kaya,Master's Degree,ICU,20,10,2026-02-04
+N1008,Sarah Wilson,Bachelor's Degree,Oncology,34,6,2026-02-19
+N1009,Michael Davis,Master's Degree,Emergency,34,15,2026-02-20
+N1010,Emma Clark,Bachelor's Degree,Cardiology,45,1,2026-02-09
+N1011,Olivia Martinez,Bachelor's Degree,Pediatrics,39,7,2026-02-19
+N1012,Liam Anderson,Bachelor's Degree,Operating Room,37,3,2026-02-20
+N1013,Noah Thomas,Master's Degree,Internal Medicine,41,9,2026-03-04
+N1014,Ava Taylor,Bachelor's Degree,ICU,47,4,2026-02-09
+N1015,William Moore,Master's Degree,Emergency,45,11,2026-02-18
+N1016,Sophia Jackson,Bachelor's Degree,Cardiology,45,2,2026-02-13
+N1017,Benjamin Martin,Master's Degree,Pediatrics,41,8,2026-02-19
+N1018,Isabella Lee,Bachelor's Degree,Operating Room,40,5,2026-02-23
+N1019,Lucas Perez,Master's Degree,Internal Medicine,33,14,2026-02-18
+N1020,Mia Thompson,Bachelor's Degree,ICU,35,3,2026-02-21
+N1021,Ethan White,Bachelor's Degree,Emergency,40,6,2026-02-15
+N1022,Charlotte Harris,Master's Degree,Cardiology,38,10,2026-02-12
+N1023,Alexander Lewis,Bachelor's Degree,Pediatrics,42,4,2026-02-10
+N1024,Amelia Walker,Bachelor's Degree,Operating Room,36,2,2026-02-22
+N1025,Mason Young,Master's Degree,Internal Medicine,40,7,2026-02-11
+N1026,Harper Hall,Bachelor's Degree,ICU,44,5,2026-02-14
+N1027,Sebastian Allen,Master's Degree,Emergency,39,12,2026-02-17
+N1028,Evelyn King,Bachelor's Degree,Cardiology,41,3,2026-02-08
+N1029,Jack Wright,Bachelor's Degree,Pediatrics,35,1,2026-02-25
+N1030,Aria Scott,Master's Degree,Operating Room,32,9,2026-02-14
+N1031,Owen Green,Bachelor's Degree,Internal Medicine,40,6,2026-02-20
+N1032,Scarlett Adams,Bachelor's Degree,ICU,45,4,2026-02-05
+N1033,Wyatt Baker,Master's Degree,Emergency,37,13,2026-02-16
+N1034,Chloe Gonzales,Bachelor's Degree,Cardiology,38,2,2026-02-21
+N1035,Henry Nelson,Bachelor's Degree,Pediatrics,40,5,2026-02-13
+N1036,Zoey Carter,Master's Degree,Operating Room,42,10,2026-02-11
+N1037,Matthew Mitchell,Bachelor's Degree,Internal Medicine,41,3,2026-02-24
+N1038,Layla Perez,Bachelor's Degree,ICU,39,7,2026-02-09
+N1039,Samuel Roberts,Master's Degree,Emergency,34,16,2026-02-22
+N1100,Adeline Graham,Bachelor's Degree,Cardiology,41,7,2026-02-16
